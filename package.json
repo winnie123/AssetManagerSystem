@@ -1,0 +1,33 @@
+{
+  "name": "assetmanagersystem",
+  "version": "1.0.0",
+  "description": "资产管理系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winnie123/AssetManagerSystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winnie123/AssetManagerSystem/issues"
+  },
+  "homepage": "https://github.com/winnie123/AssetManagerSystem#readme",
+  "dependencies": {
+    "@types/express": "^4.0.39",
+    "@types/express-serve-static-core": "^4.0.57",
+    "@types/log4js": "^2.3.5",
+    "@types/request": "^2.0.8",
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "^4.16.2",
+    "log4js": "^2.3.12",
+    "pug": "2.0.0-beta11",
+    "request": "^2.83.0",
+    "serve-favicon": "~2.4.5"
+  }
+}
